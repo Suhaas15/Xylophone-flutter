@@ -1,6 +1,8 @@
 # 🎹 Xylophone Flutter App
 
-![Xylophone Action](path/to/xylophone_in_action.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno0emZjYWh2aW52NWFlc2VtcG9tcDl2cG90aWVoZXIzeGlvM2xnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO38CH7HJIoIcnPmIM/giphy.gif">
+</p>
 
 Welcome to the **Xylophone** app! Because who said you need to carry a bulky wooden instrument to make sweet, sweet music? 🎶
 
