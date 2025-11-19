@@ -1,5 +1,7 @@
 # 🎹 Xylophone Flutter App
 
+![Xylophone Action](path/to/xylophone_in_action.gif)
+
 Welcome to the **Xylophone** app! Because who said you need to carry a bulky wooden instrument to make sweet, sweet music? 🎶
 
 Turn your phone into a colorful musical instrument and annoy your friends (or serenade them) with your beautiful compositions. Whether you're a prodigy or just like tapping bright colors, this app is for you!
@@ -14,10 +16,10 @@ Turn your phone into a colorful musical instrument and annoy your friends (or se
 
 See the magic in action:
 
-| Android | iOS |
-|:---:|:---:|
-| ![Android Screenshot](path/to/android_screenshot.png) | ![iOS Screenshot](path/to/ios_screenshot.png) |
-| *Look at those colors!* | *Elegant and simple.* |
+|                  Android                  |                iOS                |
+|:-----------------------------------------:|:---------------------------------:|
+| ![Android Screenshot](assets/Android.png) | ![IOS Screenshot](assets/IOS.png) |
+|          *Look at those colors!*          |       *Elegant and simple.*       |
 
 *(Note: Replace `path/to/...` with your actual screenshot paths)*
 
